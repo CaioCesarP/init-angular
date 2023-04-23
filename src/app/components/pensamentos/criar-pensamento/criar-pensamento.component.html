@@ -95,7 +95,9 @@
     </div>
     <div class="acoes">
       <button class="botao" (click)="criarPensamento()">Salvar</button>
-      <button class="botao" (click)="cancelar()">Cancelar</button>
+      <button class="botao" (click)="cancelar()" routerLink="/listarPensamento">
+        Cancelar
+      </button>
     </div>
   </form>
 </section>

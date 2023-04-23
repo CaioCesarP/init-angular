@@ -50,20 +50,20 @@ h2 {
 }
 
 .botao {
-  background: var(--color-primary);
-  color: var(--color-white);
+  background: #154580;
+  color: #ffffff;
   max-width: 270px;
   width: 250px;
   padding: 1rem;
   margin: 0 auto;
-  border: 2px solid var(--color-primary);
+  border: 2px solid #154580;
   border-radius: 10px;
   transition: 0.5s ease;
 }
 
 .botao:hover {
-  border: 2px solid var(--color-tertiary);
-  color: var(--color-tertiary);
+  border: 2px solid #84eec1;
+  color: #84eec1;
 }
 
 @media (min-width: 576px) {
