@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "O sucesso é a soma de pequenos esforços repetidos dia após dia. - Robert Collier",
+      "autoria": "Robert Collier",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "O tempo é uma criação da mente. Se você mudar sua percepção do tempo, você mudará sua realidade. - Dr. Joe Dispenza",
+      "autoria": "Dr. Joe Dispenza",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo. - Albert Einstein",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "4",
+      "conteudo": "O fracasso é simplesmente a oportunidade de começar de novo, desta vez de forma mais inteligente. - Henry Ford",
+      "autoria": "Henry Ford",
+      "modelo": "modelo2"
+    }
+  ]
+}
