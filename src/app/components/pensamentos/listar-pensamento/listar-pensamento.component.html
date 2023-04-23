@@ -5,4 +5,9 @@
       Adicionar pensamento
     </button>
   </header>
+  <div class="mural">
+    <div *ngFor="let pensamento of listaPensamentos">
+      <app-pensamento></app-pensamento>
+    </div>
+  </div>
 </section>
