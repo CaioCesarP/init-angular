@@ -7,10 +7,7 @@ import { Component, OnInit } from '@angular/core'
 })
 export class ListarPensamentoComponent implements OnInit {
 
-  listaPensamentos = [
-    { conteudo: 'Estou perdendo o interesse...', autoria: 'Minha mente', modelo: 'modelo2' },
-    { conteudo: 'Estou pensando sobre não ter a gente...', autoria: 'Minha mente', modelo: 'modelo1' }
-  ]
+  listaPensamentos = []
 
   constructor() { }
 
