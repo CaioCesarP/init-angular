@@ -30,4 +30,9 @@ export class PensamentoService {
     return this.http.get<Pensamento>(URL)
   }
 
+  editar(pensamento: Pensamento): Observable<Pensamento> {
+    const URL = `${this.API}/${pensamento.id}`
+    return this.http.put<Pensamento>(URL, pensamento)
+  }
+
 }
